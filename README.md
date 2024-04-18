@@ -46,7 +46,7 @@ The features we have implemented include
 
 1. **Workflow**
 
-  <img src="image/workflow.png" alt="Product Workflow" width="100%"/>
+  <img src="images/workflow.png" alt="Product Workflow" width="100%"/>
 
 2. **Start and Check**
 
@@ -67,7 +67,7 @@ The features we have implemented include
 
 ![Adpipeline][pipeline]
 
-_For more information, please refer to the [Presentation](https://www.canva.com/design/DAGBKD09ptI/4sK-y92pr1hmF23wlmU25g/edit?utm_content=DAGBKD09ptI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+For more information, please refer to the [Presentation](https://www.canva.com/design/DAGBKD09ptI/4sK-y92pr1hmF23wlmU25g/edit?utm_content=DAGBKD09ptI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
