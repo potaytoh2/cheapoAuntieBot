@@ -46,20 +46,25 @@ The features we have implemented include
 
 1. **Workflow**
 
-  <img src="URL-to-workflow-image" alt="Product Workflow" width="100%"/>
+  <img src="image/workflow.png" alt="Product Workflow" width="100%"/>
 
 2. **Start and Check**
 
-  <img src="images/start.png" alt="Product Start" width="33%"/>
-  <img src="images/check.png" alt="Product Check" width="33%"/>
-  <img src="images/prices.png" alt="Product Prices" width="33%"/>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="images/start.png" alt="Product Start" style="width: 33%;"/>
+    <img src="images/check.png" alt="Product Check" style="width: 33%;"/>
+    <img src="images/prices.png" alt="Product Prices" style="width: 33%;"/>
+  </div>
 
 3. **Pinning feature, help and bookmarks**
-  <img src="images/location.png" alt="Product Start" width="33%"/>
-  <img src="images/help.png" alt="Product Check" width="33%"/>
-  <img src="images/bookmarks.png" alt="Product Prices" width="33%"/>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="images/location.png" alt="Product Location" style="width: 33%;"/>
+    <img src="images/help.png" alt="Product Help" style="width: 33%;"/>
+    <img src="images/bookmarks.png" alt="Product Bookmarks" style="width: 33%;"/>
+  </div>
 
 4. **Ad pipeline**
+
 ![Adpipeline][pipeline]
 
 _For more information, please refer to the [Presentation](https://www.canva.com/design/DAGBKD09ptI/4sK-y92pr1hmF23wlmU25g/edit?utm_content=DAGBKD09ptI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
