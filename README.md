@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Start][product-start]
+![Product Start][aunty]
 
 The following project is an AI telegram-based chatbot integrated with OpenAI's LLM model, that offers fast and accessible prices to the cheapest ride-hailing prices. It is an attempt to monetize a product through engagement with users on the telegram platform. 
 
@@ -82,5 +82,6 @@ For more information, please refer to the [Presentation](https://www.canva.com/d
 [help]: images/help.png
 [pipeline]: images/pipeline.png 
 [bookmarks]: images/bookmarks.png
+[aunty]: images/aunty.png
 
 
